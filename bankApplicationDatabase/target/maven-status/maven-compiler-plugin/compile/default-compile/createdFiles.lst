@@ -1,0 +1,4 @@
+Controller\MyAccountHandler.class
+model\MyAccount.class
+Controller\DbConnection.class
+view\MyView.class
